@@ -2,7 +2,6 @@
     0% {
         -moz-transform: rotate(0deg)
     }
-
     to {
         -moz-transform: rotate(360deg)
     }
@@ -12,7 +11,6 @@
     0% {
         -webkit-transform: rotate(0deg)
     }
-
     to {
         -webkit-transform: rotate(360deg)
     }
@@ -23,7 +21,6 @@
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg)
     }
-
     to {
         -webkit-transform: rotate(360deg);
         transform: rotate(360deg)
@@ -35,12 +32,10 @@
         -webkit-transform: scale(1, 1);
         transform: scale(1, 1)
     }
-
     50% {
         -webkit-transform: scale(1.2, 1.2);
         transform: scale(1.2, 1.2)
     }
-
     to {
         -webkit-transform: scale(1, 1);
         transform: scale(1, 1)
@@ -52,12 +47,10 @@
         -webkit-transform: scale(1, 1);
         transform: scale(1, 1)
     }
-
     50% {
         -webkit-transform: scale(1.2, 1.2);
         transform: scale(1.2, 1.2)
     }
-
     to {
         -webkit-transform: scale(1, 1);
         transform: scale(1, 1)
@@ -68,11 +61,9 @@
     0% {
         transform: scale(1, 1)
     }
-
     50% {
         transform: scale(1.2, 1.2)
     }
-
     to {
         transform: scale(1, 1)
     }
@@ -229,11 +220,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 10%;
         left: 80%;
@@ -247,11 +236,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 10%;
         left: 80%;
@@ -265,11 +252,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 90%;
         left: 90%;
@@ -283,11 +268,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 90%;
         left: 90%;
@@ -301,11 +284,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 10%;
         left: 20%;
@@ -319,11 +300,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 10%;
         left: 20%;
@@ -337,11 +316,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 90%;
         left: 5%;
@@ -355,11 +332,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 90%;
         left: 5%;
@@ -373,11 +348,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 0%;
         left: 45%;
@@ -391,11 +364,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 0%;
         left: 45%;
@@ -409,11 +380,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 100%;
         left: 45%;
@@ -427,11 +396,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 100%;
         left: 45%;
@@ -445,11 +412,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 45%;
         left: 10%;
@@ -463,11 +428,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 45%;
         left: 10%;
@@ -481,11 +444,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 45%;
         left: 97%;
@@ -499,11 +460,9 @@
         left: 50%;
         opacity: 0
     }
-
     20% {
         opacity: 1
     }
-
     to {
         top: 45%;
         left: 97%;
@@ -711,11 +670,9 @@ body {
         padding-top: 150px;
         padding-bottom: 55px
     }
-
     #masthead .title {
         text-align: center
     }
-
     #masthead .title span {
         display: block;
         width: 100%;
@@ -946,7 +903,6 @@ body {
     #wedding-info .title-wrap {
         margin: 0 -15px
     }
-
     #wedding-info .title-wrap .menu-wrap .menu {
         padding: 0 35px;
         font-size: 1rem
@@ -999,7 +955,7 @@ body {
 
 #story .title-wrap {
     font-family: 'UVF Penna';
-    font-size: 3.7rem;
+    font-size: 2.7rem;
     color: #fff
 }
 
@@ -1153,18 +1109,15 @@ body {
     #story .wrapper-content:before {
         left: 0
     }
-
     #story .wrapper-content .item {
         width: 100%
     }
-
     #story .wrapper-content .item:nth-child(odd) .content {
         margin-top: 40px;
         margin-left: 40px;
         margin-right: auto;
         float: left
     }
-
     #story .wrapper-content .item:nth-child(odd) .content:before {
         top: 0;
         left: -15px;
@@ -1174,11 +1127,9 @@ body {
         border-bottom: 30px solid transparent;
         border-left: 0px solid transparent
     }
-
     #story .wrapper-content .item:nth-child(odd) .content:after {
         left: -47px
     }
-
     #story .wrapper-content .item:nth-child(odd) .content.first {
         margin-bottom: 230px
     }
@@ -1202,7 +1153,6 @@ body {
     #gallery .owl-carousel .owl-stage-outer {
         overflow: visible
     }
-
     #gallery .owl-carousel .owl-stage {
         width: 100% !important;
         -webkit-transform: none !important;
@@ -1212,7 +1162,6 @@ body {
         padding-bottom: 85%;
         overflow: visible
     }
-
     #gallery .owl-carousel .owl-dots {
         position: absolute;
         left: 0;
@@ -1220,7 +1169,6 @@ body {
         width: 50%;
         z-index: 99
     }
-
     #gallery .owl-carousel .owl-item {
         left: -25%;
         opacity: 0;
@@ -1233,7 +1181,6 @@ body {
         z-index: -1;
         visibility: hidden
     }
-
     #gallery .owl-carousel .owl-item a {
         display: none;
         position: absolute;
@@ -1248,7 +1195,6 @@ body {
         -o-transition: all 0.25s linear;
         transition: all 0.25s linear
     }
-
     #gallery .owl-carousel .owl-item.active {
         position: absolute;
         width: 50% !important;
@@ -1258,15 +1204,12 @@ body {
         opacity: 1;
         visibility: visible
     }
-
     #gallery .owl-carousel .owl-item.active a {
         display: block
     }
-
     #gallery .owl-carousel .owl-item.active:hover a {
         opacity: 1
     }
-
     #gallery .owl-carousel .owl-item.active .pic-item {
         position: absolute;
         display: block;
@@ -1284,11 +1227,9 @@ body {
         justify-content: center;
         overflow: hidden
     }
-
     #gallery .owl-carousel .owl-item.active .pic-item:after {
         display: block
     }
-
     #gallery .owl-carousel .owl-item.active+.active {
         position: absolute;
         width: 28% !important;
@@ -1296,11 +1237,9 @@ body {
         left: 48%;
         z-index: 11
     }
-
     #gallery .owl-carousel .owl-item.active+.active a {
         display: none
     }
-
     #gallery .owl-carousel .owl-item.active+.active .pic-item {
         position: absolute;
         display: block;
@@ -1319,17 +1258,14 @@ body {
         justify-content: center;
         overflow: hidden
     }
-
     #gallery .owl-carousel .owl-item.active+.active .pic-item:after {
         display: none
     }
-
     #gallery .owl-carousel .owl-item.active+.active .pic-item img {
         width: auto;
         height: 100%;
         max-width: unset
     }
-
     #gallery .owl-carousel .owl-item.active+.active+.active {
         position: absolute;
         width: 28% !important;
@@ -1337,7 +1273,6 @@ body {
         left: 72%;
         z-index: 12
     }
-
     #gallery .owl-carousel .owl-item.active+.active+.active+.active {
         position: absolute;
         width: 28% !important;
@@ -1345,7 +1280,6 @@ body {
         left: 55%;
         z-index: 13
     }
-
     #gallery .owl-carousel .owl-item.active+.active+.active+.active~.owl-item {
         z-index: -1;
         width: 28% !important;
@@ -1653,10 +1587,10 @@ body {
     #attend-form-wrap .wrapper-content-modal .modal-body {
         padding: 20px 10px
     }
-
     #attend-form-wrap .wrapper-content-modal .modal-body .title-form {
         font-size: 2.5rem
     }
 }
+
 
 /*# sourceMappingURL=style.css.map */
